@@ -3,7 +3,7 @@
 This is a fork of the
 [original ring.middleware.logger](https://github.com/pjlegato/ring.middleware.logger)
 by [pjlegato](https://github.com/pjlegato), which seemingly has become
-unmaintained.
+unmaintained. See the [CHANGELOG](CHANGELOG.md) for differences.
 
 ring.middleware.logger
 ======================
