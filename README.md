@@ -1,4 +1,4 @@
-[![Clojars Project](https://img.shields.io/clojars/v/com.nberger/ring.middleware.logger.svg)](https://clojars.org/com.nberger/ring.middleware.logger)
+[![Clojars Project](https://img.shields.io/clojars/v/lambdaisland/ring.middleware.logger.svg)](https://clojars.org/lambdaisland/ring.middleware.logger)
 
 This is a fork of the
 [original ring.middleware.logger](https://github.com/pjlegato/ring.middleware.logger)
