@@ -23,7 +23,7 @@ Usage
 In your `project.clj`, add the following dependency:
 
 ```clojure
-    [lambdaisland/ring.middleware.logger "0.5.2"]
+    [lambdaisland/ring.middleware.logger "0.5.1"]
 ```
 
 
@@ -152,5 +152,5 @@ limefog.log.2014-09-25:2014-09-25 01:46:47,330 (worker-1) [INFO] : (af82) Finish
 
 License
 -------
-Copyright (C) 2012-2014 Paul Legato.
+Copyright (C) 2012-2017 Paul Legato, Arne Brasseur.
 Distributed under the Eclipse Public License, the same as Clojure.
