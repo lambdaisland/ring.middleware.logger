@@ -1,3 +1,10 @@
+[![Clojars Project](https://img.shields.io/clojars/v/com.nberger/ring.middleware.logger.svg)](https://clojars.org/com.nberger/ring.middleware.logger)
+
+This is a fork of the
+[original ring.middleware.logger](https://github.com/pjlegato/ring.middleware.logger)
+by [pjlegato](https://github.com/pjlegato), which seemingly has become
+unmaintained.
+
 ring.middleware.logger
 ======================
 
@@ -16,7 +23,7 @@ Usage
 In your `project.clj`, add the following dependency:
 
 ```clojure
-    [ring.middleware.logger "0.5.2"]
+    [lambdaisland/ring.middleware.logger "0.5.2"]
 ```
 
 
@@ -58,10 +65,10 @@ project,
 
         ;; Or:
         ;; (c/if some-test-fn wrap-with-logger)
-        ;; etc. 
+        ;; etc.
 
        wrap-with-other-handler))
-  
+
   ```
 
 Consult the [ring.middleware.conditional docs](https://github.com/pjlegato/ring.middleware.conditional) for full details.
@@ -114,7 +121,7 @@ a log file.
 
 Log Levels
 ----------
-The logger logs at `INFO` level by default. More verbose information is logged when the logger is at `DEBUG` level. 
+The logger logs at `INFO` level by default. More verbose information is logged when the logger is at `DEBUG` level.
 
 Ring.middleware.logger uses
 [OneLog](https://github.com/pjlegato/onelog) internally, so we can use
