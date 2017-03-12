@@ -6,3 +6,4 @@ pom.xml
 .lein-env
 target
 logs
+pom.xml.asc
