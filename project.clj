@@ -6,4 +6,4 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojars.pjlegato/clansi "1.3.0"]
                  [org.tobereplaced/mapply "1.0.0"]
-                 [onelog "0.5.1"]])
+                 [onelog "0.5.0"]])
