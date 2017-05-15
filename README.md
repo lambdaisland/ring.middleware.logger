@@ -5,6 +5,8 @@ This is a fork of the
 by [pjlegato](https://github.com/pjlegato), which seemingly has become
 unmaintained. See the [CHANGELOG](CHANGELOG.md) for differences.
 
+This fork was [forked again by @RadicalZephyr](https://github.com/RadicalZephyr/ring.middleware.logger) and notably improved. I will not be updating the Lambda Island fork as long as the RadicalZephyr fork remains maintained, so please file any issues or pull requests there.
+
 ring.middleware.logger
 ======================
 
